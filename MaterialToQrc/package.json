@@ -1,0 +1,16 @@
+{
+  "name": "materialtoqrc",
+  "version": "1.0.0",
+  "description": "Converts material design icons to qrc file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dax",
+  "license": "MIT",
+ 
+  "dependencies": {
+    "git-js": "https://github.com/steveukx/git-js",
+    "fs-extra": "4.0.2"
+  }
+}
